@@ -1,6 +1,6 @@
 ## Perp Funding Arbitrage Demo
 
-This repo contains a Jupyter notebook `perp_funding_arbitrage.ipynb` that showcases a funding-rate arbitrage prep workflow for crypto HFT/MM interviews.
+This repo contains a Jupyter notebook `perp_funding_arbitrage.ipynb` that showcases a funding-rate arbitrage.
 
 Features:
 - Live snapshot of Binance USDT-perp funding and implied APY
